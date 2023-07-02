@@ -8,9 +8,9 @@ import 'package:flutter/material.dart';
 ///
 class BuboCardViewer extends StatelessWidget {
   final List<BuboCard> cards;
-
-  const BuboCardViewer(this.cards, {super.key});
-
+  //String language;
+  final String language;
+  const BuboCardViewer(this.cards, this.language, {super.key});
   @override
   Widget build(BuildContext context) {
     final PageController controller = PageController();
@@ -47,10 +47,16 @@ class BuboCardViewer extends StatelessWidget {
         return Padding(
           padding: const EdgeInsets.all(100.0),
           child: Center(
-              child: Image.asset(
-                  'assets/cards/${card.file.replaceAll('.aac', '@3x.png')}')),
-        );
-      },
+  child: Center(
+  child:
+    Column(
+      children: [
+        Image.asset(
+          'assets/cards/${card.file.replaceAll('.aac', '@3x.png')}'),
+        Text(card.translatedLabels[language]!)
+      ]
+    )
+)));}
     ).toList();
   }
 }
