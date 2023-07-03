@@ -2,9 +2,9 @@
 
 Adding elements to the language learning app for kids
 
-### What we used to create the project
+### Technologies used to create the project
 
-Technologies we used:
+Technologies used:
 
 * Flutter
 * Visual Studio Code
@@ -13,7 +13,7 @@ Technologies we used:
 
 ## Documentation and Presentation 
 
-Here you can check out our presentation and documentation
+Here you can check out presentation and documentation
 
 * [Documentation](https://codingburgas-my.sharepoint.com/:b:/g/personal/mdukrainska20_codingburgas_bg/EcLLl_juPQlAh-V66hgF_gEBJJXBOEiAXjfnkOygZ0-qtw?e=LSH4e3)
 * [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/mdukrainska20_codingburgas_bg/EZ6O2fBzWndApPs31xnwNisBxA823OG7PmVSbTgeW2NGrg?e=SUYpcE)
