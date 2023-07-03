@@ -1,16 +1,19 @@
-# bubolechka2
+## About the project 
 
-This is a tutorial project for flutter development
+Adding elements to the language learning app for kids
 
-## Getting Started with Flutter
+### What we used to create the project
 
-This project is a starting point for a Flutter application.
+Technologies we used:
 
-A few resources to get you started if this is your first Flutter project:
+* Flutter
+* Visual Studio Code
+* Adobe Photoshop
+* SQL Server Management Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Documentation and Presentation 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here you can check out our presentation and documentation
+
+* [Documentation](https://codingburgas-my.sharepoint.com/:w:/g/personal/mdukrainska20_codingburgas_bg/ERrmOXI43TxDk-hLhDguxLgB6ppdPAwYY1ZRCCvPHN6kQw?e=9LSn7J)
+* [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/mdukrainska20_codingburgas_bg/EZ6O2fBzWndApPs31xnwNisBxA823OG7PmVSbTgeW2NGrg?e=SUYpcE)
